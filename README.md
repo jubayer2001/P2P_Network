@@ -4,7 +4,7 @@
 |---|---|
 | **University** | University of Asia Pacific, Department of CSE |
 | **Course** | CSE 433 - Blockchain & Distributed Security Lab |
-| **Student** | [Md Abdullah Al Jobayer] |
+| **Student** | Md Abdullah Al Jobayer |
 | **ID / Section** | 22201245 / E1 |
 | **Language** | Python 3.9+ (developed with 3.13), standard library only |
 
