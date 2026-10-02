@@ -1,0 +1,7 @@
+# No third-party packages are required.
+# This project uses only the Python standard library:
+#   socket, threading, json, struct, queue, os, uuid, tkinter
+#
+# Requires Python 3.9 or later.
+# Note: On some Linux systems Tkinter is a separate package:
+#   sudo apt install python3-tk
